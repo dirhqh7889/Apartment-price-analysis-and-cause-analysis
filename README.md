@@ -34,7 +34,7 @@
 전국 전세가격 그래프   
 ![전세가격 그래프](https://user-images.githubusercontent.com/59160781/100536825-8ab36e00-3266-11eb-8eba-e70d0772f4a2.PNG)   
 서울 분양가격 그래프   
-![서울 분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536945-71f78800-3267-11eb-84f1-0f4fe3e4c880.PNG)   
+![서울 분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536984-d4508880-3267-11eb-809a-0c18a28574fe.PNG)    
 서울 전세가격 그래프   
 ![서울 전세가격 그래프](https://user-images.githubusercontent.com/59160781/100536930-55f3e680-3267-11eb-8492-3262646c3390.PNG)   
 서울 미분양주택 그래프   
