@@ -30,6 +30,7 @@
 ## 시각화 및 탐색
 
 
+![분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536810-6a83af00-3266-11eb-82d8-987ec56f6a5c.PNG)
 
 
 
