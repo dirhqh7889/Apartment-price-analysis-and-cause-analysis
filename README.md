@@ -29,12 +29,17 @@
 
 ## 시각화 및 탐색
 
+전국 분양가격 그래프   
+![분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536810-6a83af00-3266-11eb-82d8-987ec56f6a5c.PNG)   
+전국 전세가격 그래프   
+![전세가격 그래프](https://user-images.githubusercontent.com/59160781/100536825-8ab36e00-3266-11eb-8eba-e70d0772f4a2.PNG)   
+서울 분양가격 그래프   
+![서울 분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536827-8c7d3180-3266-11eb-925f-1f8396e8fee5.PNG)   
+서울 전세가격 그래프   
+![서울 전세가격 그래프](https://user-images.githubusercontent.com/59160781/100536828-8dae5e80-3266-11eb-87c9-9f065a2d8c46.PNG)   
+서울 미분양주택 그래프   
+![서울 미분양주택 그래프](https://user-images.githubusercontent.com/59160781/100536829-8e46f500-3266-11eb-8d38-de25cc6fa9e0.PNG)   
 
-![분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536810-6a83af00-3266-11eb-82d8-987ec56f6a5c.PNG)
-![전세가격 그래프](https://user-images.githubusercontent.com/59160781/100536825-8ab36e00-3266-11eb-8eba-e70d0772f4a2.PNG)
-![서울 분양가격 그래프](https://user-images.githubusercontent.com/59160781/100536827-8c7d3180-3266-11eb-925f-1f8396e8fee5.PNG)
-![서울 전세가격 그래프](https://user-images.githubusercontent.com/59160781/100536828-8dae5e80-3266-11eb-87c9-9f065a2d8c46.PNG)
-![서울 미분양주택 그래프](https://user-images.githubusercontent.com/59160781/100536829-8e46f500-3266-11eb-8d38-de25cc6fa9e0.PNG)
 
 
 
